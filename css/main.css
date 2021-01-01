@@ -1,0 +1,126 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 24pt;
+    color: #313131;
+    width: 100%;
+}
+
+nav{
+    float:right; 
+
+}
+
+nav ul li{
+    display: inline-block;
+    padding: 0 25px 0 0;
+}
+
+nav ul li a{
+    font-weight: bold;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.home {
+    clear: both;
+    padding: 50px 50px;
+}
+
+h1{
+    font-family: 'Libre Baskervville', serif;
+    font-size: 64pt;
+}
+
+.home span{
+    color: #ff654a;
+}
+
+h2{
+    font-size: 48pt;
+    font-weight: 400;
+}
+
+#about{
+    background:#ff654a;
+    padding: 50px 50px;
+    text-align: center;
+    color: #ffffff;
+    
+}
+
+h3{
+    font-family:'Libre Baskerville', serif;
+    font-size: 36pt;
+}
+
+h4{
+    font-size: 24pt;
+    font-weight: bold;
+}
+
+#about p{
+    padding: 0 180px;
+}
+
+#portfolio{
+    padding: 50px 50px;
+    text-align: center;
+}
+
+#Rogue-Pickings{
+    float: left; 
+    width: 330px;
+    margin: 25px;
+}
+
+#Jubilee-Austen{
+    float: left;
+    width: 330px;
+    margin: 25px;
+}
+
+#Rian-River-Portfolio{
+    float: left;
+    width: 330px;
+    margin: 25px;
+}
+
+#contact{
+    clear:both;
+    padding: 50px 50px;
+    background:#ff654a;
+    text-align: center;
+    color: #ffffff;
+}
+
+.contact-details{
+    float: left;
+    width: 440px;
+    margin: 20px;
+
+
+}
+
+.contact-details a{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.social-media{
+    float: left;
+    width: 150px;
+    margin: 20px;
+
+}
+
+.meet{
+    float: left;
+    width: 440px;
+   margin: 20px;
+
+}
+
+#footer{
+    clear:both;
+    font-size: 18pt;
+}
